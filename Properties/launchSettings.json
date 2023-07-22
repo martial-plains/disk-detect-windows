@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiskDetect (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DiskDetect (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
